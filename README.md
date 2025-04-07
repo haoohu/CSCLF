@@ -1,5 +1,5 @@
 # CSCLF
-This repository is the Pytorch code for our paper "_**Cross-Sensor Correlative Feature Learning and Fusion for Intelligent Fault Diagnosis**_".
+This repository is the Pytorch code for our published paper in _**IEEE Transactions on Industrial Informatics**_----- "**Cross-Sensor Correlative Feature Learning and Fusion for Intelligent Fault Diagnosis**".
 
 Paper Link: (https://doi.org/10.1109/TII.2023.3313655)
 
